@@ -40,7 +40,7 @@ to the bottom of your page.
 ### Properties
 `active`: Boolean
 
-`distance`: String - distance from the bottom side of the page when component will fire @process event to load the content.
+`distance`: String - distance from the bottom side of the page when component fires @process event to load the content.
 "200px" is a good enough, but you can choose any other value.
 
 `auto-load`: Boolean - fire @process event on component mount
