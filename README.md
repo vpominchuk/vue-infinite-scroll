@@ -17,7 +17,8 @@ Install vue-infinite-scroll package and run `npm run serve` command
 mkdir vue-infinite-scroll-exampe
 cd vue-infinite-scroll-exampe
 npm i @vpominchuk/vue-infinite-scroll
-npm install
+cd node_modules/@vpominchuk/vue-infinite-scroll/
+npm i
 npm run serve
 ```
 
@@ -25,6 +26,8 @@ If you are using Windows platform try
 `npm run serve-win`
 
 Open http://localhost:8080/ in your favorite browser
+
+Remove `node_modules` inside `@vpominchuk/vue-infinite-scroll/` after tests.
 
 ## Usage
 

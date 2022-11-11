@@ -10,7 +10,7 @@ export default defineComponent({
 
   data() {
     return {
-      limit: 5,
+      limit: 10,
       page: 0,
 
       posts: []

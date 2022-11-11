@@ -1,6 +1,6 @@
 {
   "name": "@vpominchuk/vue-infinite-scroll",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "vue-infinite-scroll is an infinite scroll component for Vue3",
 
   "main": "dist/vue-infinite-scroll.ssr.js",
@@ -9,6 +9,7 @@
   "unpkg": "dist/vue-infinite-scroll.min.js",
 
   "files": [
+    "dev/*",
     "dist/*",
     "src/**/*.vue"
   ],
