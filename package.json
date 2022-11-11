@@ -2,7 +2,8 @@
   "name": "@vpominchuk/vue-infinite-scroll",
   "version": "1.0.4",
   "description": "vue-infinite-scroll is an infinite scroll component for Vue3",
-
+  "homepage": "https://github.com/vpominchuk/vue-infinite-scroll",
+  "author": "Vasyl Pominchuk (https://pominchuk.com)"
   "main": "dist/vue-infinite-scroll.ssr.js",
   "browser": "dist/vue-infinite-scroll.esm.js",
   "module": "dist/vue-infinite-scroll.esm.js",
