@@ -38,16 +38,16 @@ To use the component, simply add
 to the bottom of your page.
 
 ### Properties
-`active`: Boolean
-
-`distance`: String - distance from the bottom side of the page when component fires @process event to load the content.
-"200px" is a good enough, but you can choose any other value.
-
-`auto-load`: Boolean - fire @process event on component mount
+| **Property** | **Type** | **Description** |
+| --- | --- | --- |
+| active |Boolean|Enable / Disable Component|
+| distance |String| Distance from the bottom side of the page when component fires `@process` event to load the content. "200px" is a good enough, but you can choose any other value.|
+| auto-load |Boolean|Fire @process event on component mount|
 
 ### Event
-
-`@process`: Callback function - fires when user scrolls to the bottom side of the page. Load a new portion of your content here.
+| **Property** | **Description** |
+| --- | --- |
+|@process|Callback function - fires when user scrolls to the bottom side of the page. Load a new portion of your content here.|
 
 ## Sample
 
